@@ -16,14 +16,21 @@ class Solution {
         PriorityQueue<Pair> pq = new PriorityQueue<>(
             (a,b) -> {
                 if(a.first !=b.first){
-                    return b.first-a.first;
+                    return a.first-b.first;
                 }
                 return a.second - b.second;
             }
         );
-
-        map.forEach((key,value) ->{
-            pq.add(new Pair(value,key));
+        int z = k;
+        map.forEach((key, value) -> {
+            Pair temp = new Pair(value, key);
+            
+            if (pq.size() < z) {
+                pq.add(temp);
+            } else if (temp.first > pq.peek().first) {
+                pq.poll();
+                pq.add(temp);
+            }
         });
         int[] res = new int[k];
         while(k!=0){
