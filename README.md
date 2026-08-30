@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/HarshParyani33/Leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshParyani33/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/HarshParyani33/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/HarshParyani33/Leetcode/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/HarshParyani33/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0875-koko-eating-bananas](https://github.com/HarshParyani33/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/HarshParyani33/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshParyani33/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/HarshParyani33/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/HarshParyani33/Leetcode/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/HarshParyani33/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/HarshParyani33/Leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/HarshParyani33/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshParyani33/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/HarshParyani33/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/HarshParyani33/Leetcode/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/HarshParyani33/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/HarshParyani33/Leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/HarshParyani33/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -104,5 +107,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/HarshParyani33/Leetcode/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/HarshParyani33/Leetcode/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
