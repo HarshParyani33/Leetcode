@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/HarshParyani33/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0509-fibonacci-number](https://github.com/HarshParyani33/Leetcode/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/HarshParyani33/Leetcode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/HarshParyani33/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -115,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/HarshParyani33/Leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/HarshParyani33/Leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/HarshParyani33/Leetcode/tree/master/0767-reorganize-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/HarshParyani33/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/HarshParyani33/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
