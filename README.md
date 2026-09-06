@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/HarshParyani33/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/HarshParyani33/Leetcode/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/HarshParyani33/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarshParyani33/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HarshParyani33/Leetcode/tree/master/0162-find-peak-element) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshParyani33/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/HarshParyani33/Leetcode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/HarshParyani33/Leetcode/tree/master/0039-combination-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
