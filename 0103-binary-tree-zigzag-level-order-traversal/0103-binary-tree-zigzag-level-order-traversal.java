@@ -21,7 +21,6 @@ class Solution {
             return res;
         }
         int left=  1;
-        int right = 0;
         q.add(root);
         while(!q.isEmpty()){
             List<Integer> temp = new ArrayList<>();
