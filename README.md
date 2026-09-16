@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/HarshParyani33/Leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshParyani33/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/HarshParyani33/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/HarshParyani33/Leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/HarshParyani33/Leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/HarshParyani33/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/HarshParyani33/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshParyani33/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/HarshParyani33/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/HarshParyani33/Leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/HarshParyani33/Leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/HarshParyani33/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/HarshParyani33/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/HarshParyani33/Leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/HarshParyani33/Leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/HarshParyani33/Leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/HarshParyani33/Leetcode/tree/master/0767-reorganize-string) |
@@ -237,9 +240,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/HarshParyani33/Leetcode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshParyani33/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/HarshParyani33/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/HarshParyani33/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
