@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/HarshParyani33/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/HarshParyani33/Leetcode/tree/master/0039-combination-sum) |
+| [0055-jump-game](https://github.com/HarshParyani33/Leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/HarshParyani33/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarshParyani33/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HarshParyani33/Leetcode/tree/master/0162-find-peak-element) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/HarshParyani33/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/HarshParyani33/Leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/HarshParyani33/Leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/HarshParyani33/Leetcode/tree/master/0621-task-scheduler) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HarshParyani33/Leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/HarshParyani33/Leetcode/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/HarshParyani33/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
