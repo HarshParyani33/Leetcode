@@ -22,12 +22,22 @@ class Solution {
         int m = board[0].length;
 
         for(int i=0; i<n; i++){
-            for(int j=0; j<m; j++){
-                if((i==0 || i==n-1 || j==0 || j==m-1) && board[i][j]== 'O'){
-                    dfs(board,i,j,n,m);
-                }
-            }
+            if(board[i][m-1] == 'O')
+            dfs(board, i,m-1,n,m);
         }
+        for(int i=0; i<n; i++){
+            if(board[i][0] == 'O')
+            dfs(board, i,0,n,m);
+        }
+        for(int i=0; i<m; i++){
+            if (board[0][i] == 'O')
+            dfs(board, 0,i,n,m);
+        }
+        for(int i=0; i<m; i++){
+            if (board[n-1][i] == 'O')
+            dfs(board, n-1,i,n,m);
+        }
+
         for(int i=0; i<n; i++){
             for(int j=0; j<m; j++){
                 if(board[i][j] == 'N'){
