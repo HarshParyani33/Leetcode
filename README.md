@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/HarshParyani33/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/HarshParyani33/Leetcode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/HarshParyani33/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
@@ -148,10 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/HarshParyani33/Leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/HarshParyani33/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/HarshParyani33/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/HarshParyani33/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/HarshParyani33/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/HarshParyani33/Leetcode/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
