@@ -1,0 +1,15 @@
+class Solution {
+    public int climbStairs(int n, Map<Integer, Integer> dp){
+            if(n<=1){
+                return 1;
+            }
+            if(!dp.containsKey(n)){
+                dp.put(n, climbStairs(n-1, dp) + climbStairs(n-2,dp));
+            }
+            return dp.get(n);
+    }
+    public int climbStairs(int n) {
+        Map<Integer, Integer> dp = new HashMap<>();
+        return climbStairs(n,dp);
+    }
+}
