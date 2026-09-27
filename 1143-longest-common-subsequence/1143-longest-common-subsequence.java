@@ -26,13 +26,6 @@ class Solution {
         int n = text1.length();
         int m = text2.length();
         int[][] dp = new int[n+1][m+1];
-        for(int i=0; i<=n; i++){
-            for(int j=0; j<=m; j++){
-                if(i==n || j==m) dp[i][j] = 0;
-                else{dp[i][j] =-1;}
-            }
-        }
-
         for(int i= n-1; i>=0; i--){
             for(int j=m-1; j>=0; j--){
                 if(text1.charAt(i) == text2.charAt(j)){
