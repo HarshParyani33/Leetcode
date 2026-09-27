@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/HarshParyani33/Leetcode/tree/master/0022-generate-parentheses) |
 | [0692-top-k-frequent-words](https://github.com/HarshParyani33/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/HarshParyani33/Leetcode/tree/master/0767-reorganize-string) |
+| [1143-longest-common-subsequence](https://github.com/HarshParyani33/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/HarshParyani33/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/HarshParyani33/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/HarshParyani33/Leetcode/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/HarshParyani33/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -321,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/HarshParyani33/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/HarshParyani33/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
