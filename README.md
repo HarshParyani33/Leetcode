@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/HarshParyani33/Leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/HarshParyani33/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/HarshParyani33/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0739-daily-temperatures](https://github.com/HarshParyani33/Leetcode/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/HarshParyani33/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/HarshParyani33/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/HarshParyani33/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/HarshParyani33/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshParyani33/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HarshParyani33/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0739-daily-temperatures](https://github.com/HarshParyani33/Leetcode/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/HarshParyani33/Leetcode/tree/master/0062-unique-paths) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/HarshParyani33/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
