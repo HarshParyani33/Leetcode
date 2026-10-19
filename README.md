@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/HarshParyani33/Leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/HarshParyani33/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/HarshParyani33/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/HarshParyani33/Leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/HarshParyani33/Leetcode/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/HarshParyani33/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/HarshParyani33/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/HarshParyani33/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/HarshParyani33/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HarshParyani33/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/HarshParyani33/Leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/HarshParyani33/Leetcode/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/HarshParyani33/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HarshParyani33/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshParyani33/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshParyani33/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/HarshParyani33/Leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/HarshParyani33/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/HarshParyani33/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/HarshParyani33/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/HarshParyani33/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/HarshParyani33/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshParyani33/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/HarshParyani33/Leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/HarshParyani33/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/HarshParyani33/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/HarshParyani33/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/HarshParyani33/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HarshParyani33/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/HarshParyani33/Leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/HarshParyani33/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/HarshParyani33/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
